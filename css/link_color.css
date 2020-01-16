@@ -8,9 +8,10 @@ a {
 a:visited { /* Link visitado */
   color: #BB8FCE;
 }
-a:hover, a:active, a:focus { /* Ao passar o mouse por cima ou manter pressionado */
-  color: #B03A2E;
-}
+
+/* a:hover, a:active, a:focus { /* Ao passar o mouse por cima ou manter pressionado */
+/* color: #B03A2E;*/
+/* }
 
 /* <link rel="stylesheet" Type="text/css" href="URL or path to css file here">
 
