@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.7",
+  "latestVersionCode": 15,
+  "disableRequest": {
+    "below": 374
+  },
+  "url": "https://play.google.com/store/apps/details?id=lordhenry.IOS.Style",
+  "releaseNotes": [
+    "This is the text which will be shown on Update",
+    "This is Awesome",
+    "Please Enjoy My Friend",
+    "<b>This</b> is Just for <i>Testing</i>"
+  ]
+}
