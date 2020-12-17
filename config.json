@@ -1,13 +1,13 @@
 {
-  "latestVersion": "1.7",
-  "latestVersionCode": 15,
+  "latestVersion": "1.9",
+  "latestVersionCode": 17,
   "disableRequest": {
     "below": 374
   },
   "url": "https://play.google.com/store/apps/details?id=lordhenry.IOS.Style",
   "releaseNotes": [
     "New update...",
-    "+40 icons added.",
+    "More icons added.",
     "<b>Update</b> now >>>"
   ]
 }
