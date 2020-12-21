@@ -1,5 +1,10 @@
 [
   {
+	"name": "iOS Style 001",
+    "url": "https://images.wallpaperscraft.com/image/pencils_colorful_colors_195234_1080x1920.jpg",
+    "thumbUrl": "https://images.wallpaperscraft.com/image/pencils_colorful_colors_195234_1080x1920.jpg"
+  },
+  {
 	"name": "iOS Style 1",
     "url": "https://images.wallpaperscraft.com/image/pencils_colorful_colors_195234_1080x1920.jpg",
     "thumbUrl": "https://images.wallpaperscraft.com/image/pencils_colorful_colors_195234_1080x1920.jpg"
@@ -908,5 +913,13 @@
 	"name": "iOS Style 182",
     "url": "https://images.wallpaperscraft.com/image/sunset_mountains_birds_193631_1080x1920.jpg",
     "thumbUrl": "https://images.wallpaperscraft.com/image/sunset_mountains_birds_193631_1080x1920.jpg"
+	"name": "iOS Style 1",
+  },
+  {
+	"name": "iOS Style 000",
+    "url": "https://images.wallpaperscraft.com/image/mountains_trees_clouds_193656_1080x1920.jpg",
+    "thumbUrl": "https://images.wallpaperscraft.com/image/mountains_trees_clouds_193656_1080x1920.jpg"
+  },
+  {
   }
 ]
