@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.3",
-  "latestVersionCode": 21,
+  "latestVersion": "2.4",
+  "latestVersionCode": 22,
   "disableRequest": {
     "below": 374
   },
@@ -8,6 +8,6 @@
   "releaseNotes": [
     "New update...",
     "More icons added.",
-    "<b>Update</b> now 🙂 >>>"
+    "<b>Update</b> now 🥰. >>>"
   ]
 }
