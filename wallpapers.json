@@ -1,72 +1,42 @@
 [
-
   {
-
     "name": "iOS Style 1",
-
     "url": "https://lordhenrydk.github.io/ios-style-resource/1.jpg",
     "collections": "teste 1,teste 2",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/1.jpg"
-
   },
-
   {
-
     "name": "iOS Style 2",
-
     "url": "https://lordhenrydk.github.io/ios-style-resource/2.jpg",
     "collections": "teste 1,teste 2",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/2.jpg"
-
   },
-
   {
-
     "name": "iOS Style 3",
-
-    "url": "https://images.wallpaperscraft.com/image/single/gradient_blur_abstraction_195121_1080x1920.jpg",
-
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/gradient_blur_abstraction_195121_1080x1920.jpg"
-
+    "url": "https://lordhenrydk.github.io/ios-style-resource/3.jpg",
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/3.jpg"
   },
-
   {
-
     "name": "iOS Style 4",
-
-    "url": "https://images.wallpaperscraft.com/image/single/wall_paint_stripes_195147_1080x1920.jpg",
-
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/wall_paint_stripes_195147_1080x1920.jpg"
-
+    "url": "https://lordhenrydk.github.io/ios-style-resource/4.jpg",
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/4.jpg"
   },
-
   {
-
     "name": "iOS Style 5",
-
-    "url": "https://images.wallpaperscraft.com/image/single/sand_waves_surface_195159_1080x1920.jpg",
-
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/sand_waves_surface_195159_1080x1920.jpg"
-
+    "url": "https://lordhenrydk.github.io/ios-style-resource/5.jpg",
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/5.jpg"
   },
-
   {
-
     "name": "iOS Style 6",
-
-    "url": "https://images.wallpaperscraft.com/image/single/gradient_blur_abstraction_195169_1080x1920.jpg",
-
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/gradient_blur_abstraction_195169_1080x1920.jpg"
-
+    "url": "https://lordhenrydk.github.io/ios-style-resource/6.jpg",
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/6.jpg"
   },
-
   {
-
     "name": "iOS Style 7",
 
-    "url": "https://images.wallpaperscraft.com/image/single/moon_night_dark_195188_1080x1920.jpg",
+    "url": "https://lordhenrydk.github.io/ios-style-resource/7.jpg",
 
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/moon_night_dark_195188_1080x1920.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/7.jpg"
 
   },
 
@@ -74,9 +44,9 @@
 
     "name": "iOS Style 8",
 
-    "url": "https://images.wallpaperscraft.com/image/single/mountains_hills_valley_195213_1080x1920.jpg",
+    "url": "https://lordhenrydk.github.io/ios-style-resource/8.jpg",
 
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/mountains_hills_valley_195213_1080x1920.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/8.jpg"
 
   },
 
@@ -84,9 +54,9 @@
 
     "name": "iOS Style 9",
 
-    "url": "https://images.wallpaperscraft.com/image/single/glass_drops_macro_195219_1080x1920.jpg",
+    "url": "https://lordhenrydk.github.io/ios-style-resource/9.jpg",
 
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/glass_drops_macro_195219_1080x1920.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/9.jpg"
 
   },
 
@@ -94,9 +64,9 @@
 
     "name": "iOS Style 10",
 
-    "url": "https://images.wallpaperscraft.com/image/single/plane_clouds_sky_195216_1080x1920.jpg",
+    "url": "https://lordhenrydk.github.io/ios-style-resource/10.jpg",
 
-    "thumbUrl": "https://images.wallpaperscraft.com/image/single/plane_clouds_sky_195216_1080x1920.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/10.jpg"
 
   },
 
