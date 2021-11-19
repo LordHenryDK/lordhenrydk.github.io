@@ -2,13 +2,11 @@
   {
     "name": "WallBest 1",
     "url": "https://lordhenrydk.github.io/ios-style-resource/1.jpg",
-    "collections": "teste 1,teste 2",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/1.jpg"
   },
   {
     "name": "WallBest 2",
     "url": "https://lordhenrydk.github.io/ios-style-resource/2.jpg",
-    "collections": "teste 1,teste 2",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/2.jpg"
   },
   {
@@ -54,17 +52,20 @@
   {
     "name": "WallBest 11",
     "url": "https://lordhenrydk.github.io/ios-style-resource/11.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/11.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/11.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 12",
     "url": "https://lordhenrydk.github.io/ios-style-resource/12.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/12.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/12.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 13",
     "url": "https://lordhenrydk.github.io/ios-style-resource/13.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/13.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/13.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 14",
@@ -109,7 +110,8 @@
   {
     "name": "WallBest 22",
     "url": "https://lordhenrydk.github.io/ios-style-resource/22.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/22.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/22.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 23",
@@ -134,7 +136,8 @@
   {
     "name": "WallBest 27",
     "url": "https://lordhenrydk.github.io/ios-style-resource/27.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/27.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/27.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 28",
@@ -179,7 +182,8 @@
   {
     "name": "WallBest 36",
     "url": "https://lordhenrydk.github.io/ios-style-resource/36.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/36.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/36.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 37",
@@ -259,7 +263,8 @@
   {
     "name": "WallBest 52",
     "url": "https://lordhenrydk.github.io/ios-style-resource/52.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/52.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/52.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 53",
@@ -289,12 +294,14 @@
   {
     "name": "WallBest 58",
     "url": "https://lordhenrydk.github.io/ios-style-resource/58.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/58.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/58.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 59",
     "url": "https://lordhenrydk.github.io/ios-style-resource/59.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/59.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/59.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 60",
@@ -304,7 +311,8 @@
   {
     "name": "WallBest 61",
     "url": "https://lordhenrydk.github.io/ios-style-resource/61.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/61.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/61.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 62",
@@ -319,7 +327,8 @@
   {
     "name": "WallBest 64",
     "url": "https://lordhenrydk.github.io/ios-style-resource/64.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/64.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/64.jpg",
+    "collections": "Cars,City"
   },
   {
     "name": "WallBest 65",
@@ -359,7 +368,8 @@
   {
     "name": "WallBest 72",
     "url": "https://lordhenrydk.github.io/ios-style-resource/72.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/72.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/72.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 73",
@@ -374,7 +384,8 @@
   {
     "name": "WallBest 75",
     "url": "https://lordhenrydk.github.io/ios-style-resource/75.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/75.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/75.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 76",
@@ -444,7 +455,8 @@
   {
     "name": "WallBest 89",
     "url": "https://lordhenrydk.github.io/ios-style-resource/89.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/89.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/89.jpg",
+    "collections": "City,Moon"
   },
   {
     "name": "WallBest 90",
@@ -454,7 +466,8 @@
   {
     "name": "WallBest 91",
     "url": "https://lordhenrydk.github.io/ios-style-resource/91.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/91.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/91.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 92",
@@ -504,7 +517,8 @@
   {
     "name": "WallBest 101",
     "url": "https://lordhenrydk.github.io/ios-style-resource/101.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/101.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/101.jpg",
+    "collections": "City"
   },
   {
     "name": "WallBest 102",
@@ -519,7 +533,8 @@
   {
     "name": "WallBest 104",
     "url": "https://lordhenrydk.github.io/ios-style-resource/104.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/104.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/104.jpg",
+    "collections": "City"
   },
   {
     "name": "WallBest 105",
@@ -644,7 +659,8 @@
   {
     "name": "WallBest 129",
     "url": "https://lordhenrydk.github.io/ios-style-resource/129.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/129.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/129.jpg",
+    "collections": "Cars"
   },
   {
     "name": "WallBest 130",
@@ -714,17 +730,20 @@
   {
     "name": "WallBest 143",
     "url": "https://lordhenrydk.github.io/ios-style-resource/143.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/143.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/143.jpg",
+    "collections": "City"
   },
   {
     "name": "WallBest 144",
     "url": "https://lordhenrydk.github.io/ios-style-resource/144.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/144.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/144.jpg",
+    "collections": "City"
   },
   {
     "name": "WallBest 145",
     "url": "https://lordhenrydk.github.io/ios-style-resource/145.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/145.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/145.jpg",
+    "collections": "City"
   },
   {
     "name": "WallBest 146",
@@ -864,7 +883,8 @@
   {
     "name": "WallBest 173",
     "url": "https://lordhenrydk.github.io/ios-style-resource/173.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/173.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/173.jpg",
+    "collections": "City"
   },
   {
     "name": "WallBest 174",
@@ -989,7 +1009,8 @@
   {
     "name": "WallBest 198",
     "url": "https://lordhenrydk.github.io/ios-style-resource/198.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/198.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/198.jpg",
+    "collections": "City"
   },
   {
     "name": "WallBest 199",
