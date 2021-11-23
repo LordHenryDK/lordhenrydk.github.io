@@ -12,7 +12,8 @@
   {
     "name": "WallBest 3",
     "url": "https://lordhenrydk.github.io/ios-style-resource/3.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/3.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/3.jpg",
+    "collections": "Space"
   },
   {
     "name": "WallBest 4",
@@ -38,7 +39,7 @@
     "name": "WallBest 8",
     "url": "https://lordhenrydk.github.io/ios-style-resource/8.jpg",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/8.jpg",
-    "collections": "Moon"
+    "collections": "Space"
   },
   {
     "name": "WallBest 9",
@@ -97,7 +98,7 @@
     "name": "WallBest 19",
     "url": "https://lordhenrydk.github.io/ios-style-resource/19.jpg",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/19.jpg",
-    "collections": "Moon"
+    "collections": "Space"
   },
   {
     "name": "WallBest 20",
@@ -242,12 +243,14 @@
   {
     "name": "WallBest 47",
     "url": "https://lordhenrydk.github.io/ios-style-resource/47.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/47.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/47.jpg",
+    "collections": "Space"
   },
   {
     "name": "WallBest 48",
     "url": "https://lordhenrydk.github.io/ios-style-resource/48.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/48.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/48.jpg",
+    "collections": "Space"
   },
   {
     "name": "WallBest 49",
@@ -462,7 +465,7 @@
     "name": "WallBest 89",
     "url": "https://lordhenrydk.github.io/ios-style-resource/89.jpg",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/89.jpg",
-    "collections": "City,Moon"
+    "collections": "City"
   },
   {
     "name": "WallBest 90",
@@ -488,8 +491,7 @@
   {
     "name": "WallBest 94",
     "url": "https://lordhenrydk.github.io/ios-style-resource/94.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/94.jpg",
-    "collections": "Moon"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/94.jpg"
   },
   {
     "name": "WallBest 95",
@@ -536,7 +538,7 @@
     "name": "WallBest 103",
     "url": "https://lordhenrydk.github.io/ios-style-resource/103.jpg",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/103.jpg",
-    "collections": "Moon"
+    "collections": "Space"
   },
   {
     "name": "WallBest 104",
@@ -637,7 +639,8 @@
   {
     "name": "WallBest 123",
     "url": "https://lordhenrydk.github.io/ios-style-resource/123.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/123.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/123.jpg",
+    "collections": "Space"
   },
   {
     "name": "WallBest 124",
@@ -704,7 +707,7 @@
     "name": "WallBest 136",
     "url": "https://lordhenrydk.github.io/ios-style-resource/136.jpg",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/136.jpg",
-    "collections": "Moon"
+    "collections": "Space"
   },
   {
     "name": "WallBest 137",
@@ -772,8 +775,7 @@
   {
     "name": "WallBest 149",
     "url": "https://lordhenrydk.github.io/ios-style-resource/149.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/149.jpg",
-    "collections": "Moon"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/149.jpg"
   },
   {
     "name": "WallBest 150",
@@ -902,7 +904,8 @@
   {
     "name": "WallBest 174",
     "url": "https://lordhenrydk.github.io/ios-style-resource/174.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/174.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/174.jpg",
+    "collections": "Space"
   },
   {
     "name": "WallBest 175",
@@ -1110,13 +1113,13 @@
     "name": "WallBest 215",
     "url": "https://lordhenrydk.github.io/ios-style-resource/215.jpg",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/215.jpg",
-    "collections": "Stars & Space,Moon"
+    "collections": "Space"
   },
   {
     "name": "WallBest 216",
     "url": "https://lordhenrydk.github.io/ios-style-resource/216.jpg",
     "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/216.jpg",
-    "collections": "Stars & Space"
+    "collections": "Space"
   },
   {
     "name": "WallBest 217",
@@ -1136,7 +1139,8 @@
   {
     "name": "WallBest 220",
     "url": "https://lordhenrydk.github.io/ios-style-resource/220.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/220.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/220.jpg",
+    "collections": "Space"
   },
   {
     "name": "WallBest 221",
@@ -1223,7 +1227,8 @@
   {
     "name": "WallBest 237",
     "url": "https://lordhenrydk.github.io/ios-style-resource/237.jpg",
-    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/237.jpg"
+    "thumbUrl": "https://lordhenrydk.github.io/ios-style-resource/237.jpg",
+    "collections": "Space"
   },
   {
     "name": "WallBest 238",
